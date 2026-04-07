@@ -24,8 +24,8 @@ cp co-tan/commands/co-tanstack.md .claude/commands/
 Or clone and symlink:
 
 ```bash
-git clone https://github.com/eran-tookii/co-tan.git
-ln -s "$(pwd)/co-tan/commands/co-tanstack.md" .claude/commands/co-tanstack.md
+git clone https://github.com/eran-tookii/co-tanstack.git
+ln -s "$(pwd)/co-tanstack/commands/co-tanstack.md" .claude/commands/co-tanstack.md
 ```
 
 ## Prerequisites

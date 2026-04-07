@@ -1,4 +1,4 @@
-# Contributing to co-tan
+# Contributing to co-tanstack
 
 Thanks for your interest in contributing!
 
