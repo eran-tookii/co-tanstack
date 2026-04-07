@@ -1,4 +1,4 @@
-# co-tan
+# co-tanstack
 
 Custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) commands for TanStack development. Grounds your AI-assisted coding in official TanStack documentation so you get correct patterns instead of hallucinated ones.
 
